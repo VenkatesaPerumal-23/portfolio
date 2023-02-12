@@ -1,0 +1,1391 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tourism-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: Roboto;
+}
+
+.tourism-card {
+    background-color: white;
+    height: 200px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    text-align: center;
+}
+
+.tourism-head {
+    padding: 15px;
+    font-size: 45px;
+}
+
+.tourism-para {
+    font-size: 20px;
+}
+
+.tourism-but {
+    background-color: #25b1cc;
+    color: #ffffff;
+    border-width: 0;
+    height: 40px;
+    width: 120px;
+    border-radius: 25px;
+    padding: 6px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.fav-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height:100%;
+    padding: 10px;
+    background-size: cover;
+}
+
+.fav-heading {
+    color: white;
+    font-family: Caveat;
+    font-size: 40px;
+    padding: 12px;
+}
+
+.fav-img {
+    height: 120px;
+    width: 100px;
+}
+
+.fav-card-container {
+    background-color: white;
+    border-radius: 7px;
+    padding: 18px;
+    margin: 20px;
+}
+
+.fav-p1-heading {
+    color: #0f0e46;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.fav-p1-para {
+    color: #6c6b70;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.favplaces-button {
+    color: white;
+    background-color: black;
+    margin: 15px;
+    padding: 8px;
+    width: 70px;
+    border-width: 0;
+    border-radius: 8px;
+}
+.port-home-bg-container{
+    background-color:#ffffff;
+    background-size:cover;
+    height:100%;
+    width:100%;
+    
+}
+.port-home-para{
+  font-size:28px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  font-weight: bold;
+  color:indigo;
+  padding-top:8px;
+}
+.port-hr-line{
+    background-color: blueviolet;
+    padding:2px;
+    width:1500px;
+    margin-left:25px;
+   
+    
+}
+.port-home-button{
+    background-color:#09A3B8;
+    color:#E34400;
+    font-weight: bold;
+    margin-left:80px;
+    width:150px;
+    height:50px;
+    border-width:0px;
+    border-radius:25px;
+    padding:6px;
+    font-size:20px;
+    
+}
+.port-dark-mode{
+    background-color:#0B1717;
+    color:#ffffff;
+    margin-left:80px;
+    width:150px;
+    height:50px;
+    border-width:0px;
+    border-radius:25px;
+    padding:6px;
+    font-size:20px;
+}
+.port-home-heading{
+    font-size:40px;
+    text-align: center;
+    font-family:Lobster;
+    padding:40px;
+}
+.port-home-card{
+    height:280px;
+    width:600px;
+    border-width:0px;
+    border-radius:24px;
+    background-color: #162C87;
+    padding:30px;
+}
+.port-home-para2{
+    color:#ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:35px;
+    font-size:20px;
+    width:560px;
+    text-align: center;
+}
+.port-home-image{
+    width:280px;
+    height:280px;
+    border-radius:1200px;
+    border-width:7px;
+    border-style:solid;
+    border-color:#eaca18;
+    margin-left:50px;
+    
+}
+.port-proj-head{
+    background-color:#162C87;
+    color:#ffffff;
+    text-align: center;
+    font-family:impact;
+    width:230px;
+    height:60px;
+    padding-top:12px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-top:50px;
+    font-size:25px;
+
+}
+.port-proj-image{
+    height:200px;
+    width:230px;
+    border-radius:20px;
+    border-width:0px;
+}
+.port-proj-para{
+    color:crimson;
+    font-style:italic;
+    font-weight: bold;
+    padding-left:12px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.proj-card{
+    margin-left:10px;
+}
+.port-proj-para2{
+    font-family:Franklin Gothic;
+    color:black;
+    padding: 20px;
+    margin-left:12px;
+
+}
+.port-sum{
+    margin-left:12px;
+    font-weight:bold;
+    text-decoration: underline;
+}
+.port-hr-line1{
+    background-color:black;
+    padding:1px;
+    width:1500px;
+    margin-left:25px;
+
+}
+.port-mess-details{
+    font-family:bree serif;
+    padding:20px;
+}
+.port-mess-details1{
+    font-family:bree serif;
+    padding-left:20px;
+    border-style:solid;
+    border-width:6px;
+    margin-left:20px;
+    width:340px;
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px;
+    background-color: #9dc8cd;
+    border-left-color:#E34400;
+    border-top-color:white;
+    border-bottom-color:white;
+    border-right-color:white;
+}
+.port-button-container{
+    text-align: center;
+}
+
+.detailed-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height:100%;
+
+}
+
+.detailed-heading {
+    color: #aa0808;
+    font-family: Caveat;
+    font-weight: bold;
+    padding: 12px;
+    text-align: center;
+
+}
+
+.detailed-view-heading {
+    color: white;
+    padding: 14px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    margin: 25px;
+    height: 600px;
+    width: 400px;
+    margin-left: 45px;
+}
+
+.detailed-heading1 {
+    padding: 8px;
+    text-align: center;
+    font-family: Times New Roman;
+}
+
+.detailed-para {
+    padding: 12px;
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.detailed-para1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Caveat;
+    font-size: 30px;
+}
+
+.detailedpage-butt {
+    background-color: #ef04ad;
+    color: white;
+    width: 80px;
+    border-radius: 8px;
+    border-width: 0;
+    padding: 8px;
+    margin: 12px;
+}
+.mebg-container{
+    background-color:#03174c;
+    height:100%;
+    background-size: cover;
+
+}
+.me-heading{
+    text-align: center;
+    font-style:oblique ;
+    height:80px;
+    width:220px;
+    border-top-left-radius:30px;
+    border-bottom-right-radius:30px;
+    margin-top:10px;
+    padding:8px;
+    color:black;
+    background-color: rgb(218, 218, 72);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.me-img{
+    height:200px;
+    width:200px;
+    margin:30px;
+    border-color:#0B1717;
+    border-width:2px;
+    border-style:solid;
+    border-radius:20px;
+
+}
+.me-para{
+    color:#ffffff;
+    font-family: cursive;
+    font-size:20px;
+    font-weight: bold;
+    padding:40px;
+}
+.soc-img{
+    height:45px;
+    width:50px;
+    margin-left:8px;
+}
+.me-btn{
+    margin: 20px;
+    text-align: center;
+}
+.edu-bg-container{
+    background-size: cover;
+    height: 100vh;
+}
+.edu-heading{
+    
+    font-family:Kaushan Script;
+    color:black;
+    margin:12px;
+    border-style:solid;
+    border-color:black;
+    background-color:yellow ;
+    border-top-left-radius:30px;
+    border-bottom-right-radius:30px;
+    font-weight: bold;
+    width:200px;
+    
+}
+.edu-img{
+    width:100px;
+    height:70px;
+    margin:12px;
+}
+.edu-hr{
+    background-color:black;
+    padding:1px;
+    width:1500px;
+    margin-left:25px;
+}
+ 
+.edu-view-card-container {
+    background-color: white;
+    margin: 25px;
+    height: 700px;
+    width: 400px;
+    border-style: solid;
+    border-color:#aa0808;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+}
+
+.edu-heading1 {
+    padding: 8px;
+    font-family:cursive;
+    color:#0f0e46;
+}
+
+.edu-para {
+    padding: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#434849;
+    font-weight:bold
+
+}
+.eduskill-container{
+    margin:30px;
+}
+.skill-heading{
+    font-family: impact;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.skill-para{
+    margin:30px;
+    font-weight: bold;
+}
+.feed-bg-container{
+    background-color: rgb(126, 179, 199);
+    height:100%;
+
+}
+.feed-head{
+    font-family:fantasy;
+    text-align: center;
+    font-size:25px;
+    color:black;
+    text-decoration: underline;
+    text-decoration-color:yellow ;
+    margin:20px;
+}
+.feed-para{
+    font-family: caveat;
+    font-size:40px;
+    color:#ffffff;
+    margin:20px;
+}
+.feed-para:hover{
+    color:black;
+}
+
+.form-container{
+    margin-left:18px;
+}
+.form-para{
+    color:black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mand-para:hover{
+    color:red;
+}
+fieldset {
+    background-color: #eeeeee;
+    width:500px;
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+    width:500px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+textarea{
+    margin:18px;
+}
+
+.book-bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height:100%;
+    padding: 20px;
+}
+
+.book-main-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Bree Serif;
+}
+
+.book-container {
+    background-color: #e6f6ff;
+    height: 240px;
+    width: 410px;
+    border-radius: 8px;
+}
+
+.book-heading {
+    color: #183b56;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 20px;
+    font-family: bree Serif;
+}
+
+.book-para {
+    color: #06070d;
+    font-weight: bold;
+    padding-left: 15px;
+    margin-top: 10px;
+    font-family: bree Serif;
+}
+
+.book-para1 {
+    color: #183b56;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 15px;
+    margin-top: 6px;
+    font-family: bree Serif;
+}
+
+.book-but-container {
+    padding: 15px;
+}
+
+.book-main-heading2 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Bree Serif;
+    padding-left: 3px;
+    padding-top: 10px;
+}
+
+.book-container2 {
+    background-color: #1b1b1b;
+    height: 200px;
+    width: 380px;
+    border-radius: 8px;
+}
+
+.book-img {
+    width: 120px;
+    height: 200px;
+}
+
+.book-heading3 {
+    color: #e4e7eb;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 8px;
+    font-family: bree Serif;
+}
+
+.book-para3 {
+    color: #e4e7eb;
+    font-size: 14px;
+    padding-left: 15px;
+    margin-top: 5px;
+    font-family: bree Serif;
+}
+
+.allbooks-bg-container2 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 780px;
+    padding: 20px;
+}
+
+.book-common-img {
+    height: 330px;
+    width: 260px;
+}
+
+.allbooks-text-container {
+    text-align: center;
+    font-family: bree Serif;
+}
+
+.allbooks-detailedheading {
+    color: #ffffff;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.allbooks-detailedpara {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.allbooks-detailedpara2 {
+    color: #e4e7eb;
+    font-family: bree Serif;
+    font-size: 15px;
+}
+
+.allbooks-but-container2 {
+    padding-top: 30px;
+}
+
+
+.podcast-font-fam {
+    font-family: Roboto;
+}
+
+.podcast-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    width:100vw;
+    padding:100px;
+    height: 650px;
+    background-size: cover;
+}
+
+.podcast-headinghome {
+    color: #ffffff;
+    padding: 18px;
+    font-size: 38px;
+}
+
+.podcast-img {
+    height: 180px;
+    width: 220px;
+    padding: 25px;
+}
+
+.podcast-homepara {
+    color: #151765;
+    font-weight: bold;
+    padding: 3px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.podcast-homepara1 {
+    color: #5a7184;
+    text-align: center;
+}
+
+.podcast-bg-container1 {
+    background-color: #151765;
+    width: 420px;
+    height: 210px;
+    background-size: cover;
+
+}
+
+.podcast-img-2 {
+    height: 180px;
+    width: 220px;
+    padding: 25px;
+}
+
+.podcast-detailspara {
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.podcast-detailsheading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.podcast-img-3 {
+    height: 180px;
+    width: 210px;
+    padding: 25px;
+}
+
+.podcast-content-heading {
+    color: #151765;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 23px;
+}
+
+.podcast-content-para {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.podcast-content-para1 {
+    color: #151765;
+    font-size: 12px;
+}
+
+.podcast-button-container {
+    text-align: right;
+    padding: 8px;
+}
+
+.podcast-butt {
+    color: #ffffff;
+    background-color: #151765;
+    border-width: 0px;
+    border-radius: 15px;
+    padding: 5px;
+    width: 90px;
+}
+
+
+.favstores-bg-container {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+}
+
+.favstores-home-heading {
+    color: #ffffff;
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-family: bree Serif;
+    text-align: center;
+}
+
+.favstores-img-1 {
+    height: 260px;
+    width: 250px;
+    padding-top: 12px;
+}
+
+.favstores-store-card {
+    height: 100vh;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    background-color: #ffffff;
+}
+
+.favstores-card-heading {
+    font-size: 20px;
+    color: #f780c3;
+    padding-top: 35px;
+    padding-left: 20px;
+}
+
+.favstores-img-2 {
+    padding-top: 30px;
+    padding-left: 20px;
+    height: 75px;
+    width: 65px;
+}
+
+.favstores-card-heading2 {
+    color: #323f4b;
+    font-size: 20px;
+    padding-left: 18px;
+    padding-top: 25px;
+    font-family: bree Serif;
+}
+
+.favstores-card-para {
+    color: #7b8794;
+    padding-left: 18px;
+    font-size: 15px;
+
+}
+
+.yogahome-home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height:130vh;
+    font-family: Roboto;
+}
+
+.yogahome-home-heading {
+    color: #132d84;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.yogahome-home-img {
+    width: 300px;
+    height: 350px;
+    padding-top: 60px;
+    margin-top: 80px;
+}
+
+.yogahome-home-para {
+    color: #323f4b;
+    text-align: center;
+    font-size: 20px;
+    width: 350px;
+}
+
+.yoga-button-container {
+    text-align: center;
+}
+
+.yoga-button {
+    background-color: #132d84;
+    color: #ffedcb;
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    border-width: 0px;
+    padding: 3px;
+}
+
+.yoga-bg-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    height:200vh;
+    font-family: Roboto;
+
+
+}
+
+.yoga-img1 {
+    height: 300px;
+    width: 320px;
+    padding: 40px;
+}
+
+.yoga-heading {
+    text-align: center;
+    color: #132d84;
+    font-size: 30px;
+}
+
+.yoga-card {
+    height: 180px;
+    width: 620px;
+    background-color: #ffe2ab;
+    border-radius: 15px;
+    border-width: 0px;
+    margin: 20px;
+
+}
+
+.yoga-img2 {
+    width: 180px;
+    height: 150px;
+    padding: 20px;
+}
+
+.yoga-heading2 {
+    color: #132d84;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.yoga-para {
+    color: #253263;
+    font-size:18px;
+    width: 250px;
+    padding-left: 10px;
+}
+
+.foundation-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    background-size: cover;
+    height:900px;
+}
+
+.foundation-card-container {
+    height: 540px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    background-color: #ffffff;
+    font-family: Roboto;
+}
+
+.foundation-card-heading {
+    color: #323f4b;
+    padding-left: 25px;
+    padding-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.foundation-card-para {
+    color: #7b8794;
+    padding-left: 25px;
+}
+
+.foundation-course-container {
+    height: 150px;
+    width: 200px;
+    margin-left: 20px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #cbd2d9;
+}
+
+.foundation-img {
+    width: 60px;
+    height: 70px;
+    padding-top: 20px;
+}
+
+.foundation-course-para {
+    padding-top: 18px;
+}
+
+.articles-home-bg-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    font-family: roboto;
+
+}
+
+.articles-home-heading {
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-size: 30px;
+    margin-bottom: 2px;
+    font-weight: bold;
+
+}
+
+.articles-home-para {
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    font-size: 18px;
+    width: 350px;
+    text-align: center;
+
+}
+
+.articles-home-card {
+    width: 250px;
+    height: 160px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    margin-left: 25px;
+}
+
+.articles-home-img {
+    width: 70px;
+    height: 80px;
+    padding-top: 25px;
+
+}
+
+.articles-home-para1 {
+    color: #1f2933;
+    font-size: 18px;
+    padding-top: 22px;
+}
+
+.articles-card-container {
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+.articles-topics-bg-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 120vh;
+    font-family: roboto;
+}
+
+.articles-card-carousel {
+    padding-left: 40px;
+    border-radius: 15px;
+    padding-top: 20px;
+    width: 420px;
+}
+
+.articles-topics-heading {
+    color: #ffffff;
+    padding-left: 40px;
+    font-size: 28px;
+    padding-top: 20px;
+}
+
+.articles-list-order {
+    color: #ffffff;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.articles-list {
+    margin-top: 15px;
+}
+
+.articles-button-container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.articles-button {
+    background-color: #225db0;
+    border-color: #ffffff;
+    border-width: 3px;
+    color: #ffffff;
+    width: 60px;
+}
+
+
+.flats-home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 120vh;
+}
+
+.flats-home-card {
+    background-color: #ffffff;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    height: 250px;
+    text-align: center;
+
+}
+
+.flats-home-heading {
+    color: #f19116;
+    font-size: 25px;
+    padding-top: 40px;
+    font-family: bree serif;
+}
+
+.flats-home-para {
+    color: #7b8794;
+    padding-top: 12px;
+    font-family: bree serif;
+}
+
+.flats-button-container {
+    margin: 40px;
+}
+
+.flats-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 3px;
+    width: 100px;
+    height: 35px;
+
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 120vh;
+    padding: 18px;
+}
+
+.flats-list-heading {
+    color: #f19116;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family: bree serif;
+}
+
+.flats-list-card {
+    height: 200px;
+    width: 600px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.flats-list-img {
+    width: 120px;
+}
+
+.flats-list-heading2 {
+    color: #0f0e46;
+    padding: 12px;
+    font-family: bree serif;
+    font-size: 30px;
+    margin-bottom: 3px;
+}
+
+.flats-list-para {
+    color: #7b8794;
+    padding-left: 12px;
+    font-family: bree serif;
+    font-size: 15px;
+    width: 480px;
+}
+
+.flats-list-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 3px;
+    width: 100px;
+    height: 35px;
+    margin-top: 40px;
+}
+
+.flats-detailed-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    background-size: cover;
+    height: 600px;
+}
+
+.flats-detailed-bg-container1 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.flats-detailed-heading {
+    color: #f19116;
+    padding: 20px;
+    font-size: 30px;
+    font-family: bree serif;
+}
+
+.flats-detailed-img {
+    width: 50px;
+    height: 45px;
+    padding-top: 4px;
+    padding-left: 15px;
+}
+
+.flats-detailed-para {
+    color: #ffffff;
+    justify-content: center;
+    padding-top: 8px;
+    padding-left: 18px;
+    margin-left: 6px;
+    font-family: bree serif;
+}
+
+.flats-line {
+    background-color: #ffffff;
+    width: 1400px;
+    height: 2px;
+    margin-bottom: 3px;
+}
+
+.flats-detailed-heading2 {
+    color: #f19116;
+    padding-left: 20px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+    font-size: 30px;
+    font-family: bree serif;
+}
+
+.flats-detailed-para2 {
+    color: #ffffff;
+    width: 700px;
+    padding-left: 20px;
+    padding-top: 4px;
+    font-size: 16px;
+    font-family: bree serif;
+}
+
+.flats-button-container1 {
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 60px;
+}
+
+.flats-button1 {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 3px;
+    width: 100px;
+    height: 35px;
+    margin-left: 12px;
+}
+
+.myproject-bg-container {
+    height: 100vh;
+}
+
+.myproject-img1 {
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+}
+
+.myproject-container {
+    font-family: bree Serif;
+}
+
+.myproject-home-heading {
+    font-size: 30px;
+    color: #183b56;
+}
+
+.myproject-home-para {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 3px;
+    color: #616e7c;
+}
+
+.myproject-home-para1 {
+    font-size: 16px;
+    padding: 5px;
+    color: #616e7c;
+}
+
+.myproject-img2 {
+    height: 120px;
+    width: 220px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.myproject-food-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 750px;
+    width:100vw;
+    background-size: cover;
+
+}
+
+.myproject-food-card {
+    background-color: #f6c56e;
+    padding: 20px;
+    color: #323f4b;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.myproject-food-butt {
+    background-color: #ffffff;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bold;
+    border-width: 0px;
+    border-radius: 6px;
+    height: 40px;
+    width: 130px;
+
+}
+
+.myproject-food-main {
+    font-family: Bree Serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.myproject-food-para {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+.myproject-vr-bg-container {
+
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height:1200px;
+    width:100vw;
+}
+
+.myproject-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 30px;
+
+}
+
+.myproject-vr-heading {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 25px;
+}
+
+.myproject-vr-para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.myproject-vr-but1 {
+    color: #171f46;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: #d7dfe9;
+    padding: 8px;
+    font-size: 12px;
+    width: 120px;
+    margin-right: 20px;
+}
+
+.myproject-vr-but2 {
+    color: #ffffff;
+    border-radius: 5px;
+    background-color: #5752ab;
+    padding: 8px;
+    font-size: 12px;
+    width: 120px;
+    margin-left: 20px;
+}
+
+
+.myproject-news-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 820px;
+    font-family: Roboto;
+}
+
+.myproject-news-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15px;
+}
+
+.myproject-news-p1 {
+    color: #7b8794;
+    font-size: 12px;
+    padding: 15px;
+    margin-top: 8px;
+}
+
+.myproject-news-p2 {
+    color: #7b8794;
+    font-size: 13px;
+    padding: 15px;
+}
+
+.myproject-news-h1 {
+    color: #323f4b;
+    font-size: 20px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.myproject-news-but {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 13px;
+    padding: 12px;
+    width: 130px;
+    margin-left: 22px;
+}
+
+
+.myproject-diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.myproject-diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.myproject-diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+    height: 100vh;
+}
+
+.myproject-diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 160px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.myproject-diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.myproject-diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.myproject-diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+.dark-mode {
+    background-color: black;
+  }
